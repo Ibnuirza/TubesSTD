@@ -5,7 +5,7 @@ void createlistBuku(ListBuku &LB){
 }
 void createlistPenulis(ListPenulis &LP){
     first(LP) = NULL;
-    last(LP) = NULL;
+    last(LP) = NULL;shdbvcjhbsdjcbhsdjcbhsjcbsjdcbshbcjhbscjhsbcdhshcb
 }
 void createlistRelasi(ListRelasi &LR){
     first(LR) = NULL;
